@@ -5,5 +5,5 @@ header:
   image: "
 ---
 
-I am a grad studen at USC.
+I am a grad student at USC.
 
