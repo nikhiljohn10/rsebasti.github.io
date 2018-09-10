@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/jacaranda.jpg"
+  image: "
 ---
 
 I am a grad studen at USC.
