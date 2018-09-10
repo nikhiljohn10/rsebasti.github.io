@@ -104,7 +104,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Grad Student at USC"
   location         : "Los Angeles, CA"
-  email            :
+  email            : "rsebasti@usc.edu"
+  github	   : "rsebasti"
+  linkedin         : "rinusebastian"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -285,3 +287,13 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  #_pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+
