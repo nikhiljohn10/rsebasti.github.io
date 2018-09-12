@@ -105,7 +105,7 @@ author:
   bio              : "Grad Student at USC"
   location         : "Los Angeles, CA"
   email            : "rsebasti@usc.edu"
-  github	   : "rsebasti"
+  github	         : "rsebasti"
   linkedin         : "rinusebastian/"
   links:
     - label: "Email"
@@ -295,5 +295,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-
